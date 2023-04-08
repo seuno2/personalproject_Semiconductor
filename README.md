@@ -4,6 +4,9 @@
 
 - 1567 rows × 592 columns of tabular dataset with nemeric sensor values / Pass or Fail binary target value (imbalanced)
 
-1. Scikit learn 
-- XGboost, Random Forest, Oneclass SVM
-- a
+## 1. Scikit learn 
+- Standard Scaling &rarr; XGboost, Random Forest, Oneclass SVM
+- accuracy : 92% / f1 : 96%
+
+## 2. Keras DNN
+- 
